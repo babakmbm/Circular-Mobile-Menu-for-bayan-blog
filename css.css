@@ -12,13 +12,13 @@
 }
 .mask2 {
 	bottom:-14px;
-	left:-25px;
+	left:0px;
 	width:100px;
 	height:100px;
 	border-radius:50%;
 	position:absolute;
 	z-index:21;
-	color:#0d0d0d;
+	color:#000;
 	text-align:center;
 	line-height:120px;
 	cursor:pointer;
